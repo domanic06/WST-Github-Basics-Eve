@@ -1,4 +1,5 @@
 # WST-Github-Basics-Eve
 WST Repository Practice
 
-Welcome
+Welcome! I am Eve 
+This is repostory practice for the Class. 
